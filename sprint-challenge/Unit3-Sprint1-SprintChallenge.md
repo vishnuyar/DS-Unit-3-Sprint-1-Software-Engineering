@@ -269,6 +269,18 @@ career here, you'll have to answer the following:
   improve this situation?
 
 Answer both of these questions (baseline ~5 sentences) here in text.
+**Code Review Importance**
+When I review code, I check for the following
+a) Read ability of the code  -  The code should follow like a step by step guide rather than a hopscotch story
+b) Explaing the steps - Each step should be explainable in the code, else I look for a comment for a code which is little compled
+c) Naming of the variables, functions : The naming of the functions and the variables should match the code functionality, that way, the code readability increases a lot.
+
+**Containers**
+When they are a lot of computers, sometimes the default configurations of the computer will not be same. During such instances, when we want to ensure that all the users get the same application experience, we use containers. Containers ensure that application runs on a single type of configuration, thus ensuring uniform user experience.
+
+Also, whenver they are any code changes to the application, containers make the maintance of the code easy.
+
+
 
 ### Part 8 - Turn it in!
 
